@@ -1,6 +1,6 @@
 Name:		texlive-expkv
 Version:	60573
-Release:	1
+Release:	2
 Summary:	An expandable key=val implementation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expkv
