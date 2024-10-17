@@ -3,7 +3,7 @@ Version:	60573
 Release:	2
 Summary:	An expandable key=val implementation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expkv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/expkv
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expkv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expkv.doc.r%{version}.tar.xz
